@@ -1,5 +1,0 @@
-Title,Platform,Genre,Release_Date,Watch_Time,User_Age_Group,Rating
-Movie A,Netflix,Drama,2023-07-01,120,18-25,4.5
-Movie B,Hotstar,Action,2023-07-03,95,25-35,4.2
-Movie C,Netflix,Comedy,2023-07-05,110,13-18,3.9
-Movie D,Hotstar,Drama,2023-07-08,130,18-25,4.0
