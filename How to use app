@@ -1,0 +1,23 @@
+-------------------------- 🧠 How to Use the App ---------------------------
+1. Upload any .csv file using the uploader.
+
+2. The app automatically reads and cleans the column names.
+
+3. You will see:
+
+   * Column names
+
+     * Sample preview of data
+
+       * Quick stats for each field
+
+4. Choose:
+
+           * A column for bar chart analysis
+
+               * A column for word cloud generation (text-based only)
+
+View your insights instantly.
+
+
+------------------------------------- End --------------------------------------------
