@@ -34,3 +34,13 @@ This will open the app in your browser at:
 ****
 http://localhost:8501
 ****
+
+---------------------- 🧪 Sample Use Cases --------------------
+
+  ** Analyze content data from Netflix, Hotstar, Prime Video
+
+  ** View top genres, cast members, or countries
+
+  ** Understand audience trends and behavior
+
+  ** Explore any business dataset (HR, sales, CRM, etc.)
