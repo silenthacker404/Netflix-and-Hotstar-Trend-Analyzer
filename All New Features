@@ -1,0 +1,17 @@
+///////////////////////////////////////  List of new features added to the app ////////////////////////////////////
+
+** Line Chart Support – Replaced scatter plot with a working line chart for numeric/date data.
+
+** Chart Type Selector – Users can choose between bar, pie, or line charts.
+
+** Data Filtering Panel – Added interactive filters for categorical and numeric columns.
+
+** Improved Word Cloud – Selectable text column with better error handling.
+
+** UI Enhancements – Clear layout, emojis, titles, and better visual styling.
+
+** Column Normalization – Auto-strips and lowercases column names.
+
+** Better Chart Logic – Clean limits, labels, and color use for clarity and storytelling.
+
+/////////////////////////////////////////////////////   END  ////////////////////////////////////////////////////
