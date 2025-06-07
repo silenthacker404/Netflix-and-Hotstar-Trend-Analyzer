@@ -22,12 +22,11 @@ Install all dependencies in one command:
 bash ---
 pip install streamlit pandas plotly matplotlib wordcloud
 
------------------- 🚀 Start the App ------------------
-Run the app using Streamlit:
-
-***********
-streamlit run stream_app.py 
-**********
+------------------ 🚀 How to Start the App ------------------
+1. Run Terminal
+****************
+2. Write streamlit run "Path of the Finalstreamapp.py" 
+*******************************
 
 This will open the app in your browser at: 
 
